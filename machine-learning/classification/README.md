@@ -24,6 +24,13 @@
 
 See \ref\(fig:myfigure\)
 
+```r
+classExample, echo = FALSE, out.width = '49%', fig.show = "hold", fig.cap = 'Two attributes (horizontal and vertical axes), two classes (red and blue), and three lines which can separate the classes successfully.'}
+knitr::include_graphics(c('./images/classification/classification.png', './images/classification/classification_.png'))
+```
+
+
+
 
 
 To design a classifier, one would need the training data, the model \(e.g., linear\), an evaluation metric \(e.g., maximum empirical margin in support vector machines\), and an optimization algorithm to optimize the model parameters given the evaluation metric and the data. The evaluation metric is responsible to inform the optimizer on how well the current parameters perform while ensure the generalization ability is not sacrificed.

@@ -20,9 +20,9 @@
 
 
 
-![](../../.gitbook/assets/classification_.PNG)
+![My figure \label{fig:myfigure} ](../../.gitbook/assets/classification_.PNG)
 
-
+See \ref{fig:myfigure}
 
 
 

@@ -1,0 +1,6 @@
+# Linear discriminant analysis
+
+Supervised
+
+
+

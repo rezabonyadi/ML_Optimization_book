@@ -1,7 +1,5 @@
 # Introduction
 
-~~_**Needs revision**_~~
-
 Machine learning refers to a set of algorithms which make a machine \(with a computer as its brain\) to apparently learn. While learning in animals and human is not very well understood, in machines it is simply to find a generic rule, given a set of examples, which
 
 Machine learning refers to a set of methodologies that make machines apparently "learning" to perform tasks. Although it is hard to define learning, it is related to progressive improvement in performing a task successfully. Intuitively there are two types of learning: self-learning \(unsupervised\) and learning from others \(supervised\).
@@ -31,7 +29,7 @@ See [this blog](http://ai-a2z.blogspot.com/2019/07/what-is-data-science.html) fo
 Data science is the science of dealing with data to extract patterns, which, eventually, are used to present information about how future look like given the history. You have all seen the following picture as a mean of defining what is this data science:  
 
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 While the picture is quite telling, it has a lot of details to be clarified. Obviously, a data scientist requires Computer Science, Mathematics, and Domain knowledge. But each of these is, on their own, a large field of study. I personally believe that the more you know in these areas the better you will be in solving data science-related problems. However, "what do we need from each of these to get started" is a fair question.
 

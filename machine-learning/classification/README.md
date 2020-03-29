@@ -8,7 +8,21 @@
 * These assumptions include the shapes of the mathematical rule \(a line, "if-then" rules, etc.\) and the _evaluation_ metric by which the rule is evaluated.
 * Different classification methods usually differ by their assumptions on the model, evaluation metric, and optimization method used.
 
-![Two attributes \(horizontal and vertical axes\), two classes \(red and blue\), and three lines which can separate the classes successfully. \label{fig:myfigure} ](../../.gitbook/assets/classification.PNG)
+
+
+
+
+| ![Computer Brain Exascale](../../.gitbook/assets/image%20%283%29.png) |  |
+| :--- | :--- |
+| How are we doing compared to nature? See [this](https://www.visualcapitalist.com/visualizing-trillion-fold-increase-computing-power/). |  |
+
+
+
+
+
+![](../../.gitbook/assets/classification_.PNG)
+
+
 
 
 

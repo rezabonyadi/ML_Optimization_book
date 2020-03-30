@@ -12,24 +12,11 @@
 
 
 
-| ![Computer Brain Exascale](../../.gitbook/assets/image%20%283%29.png) |  |
+|  ![](../../.gitbook/assets/classification_.PNG)  |  ![](../../.gitbook/assets/image%20%283%29.png)  |
 | :--- | :--- |
-| How are we doing compared to nature? See [this](https://www.visualcapitalist.com/visualizing-trillion-fold-increase-computing-power/). |  |
+|   |   |
 
-
-
-
-
-![My figure \label{fig:myfigure} ](../../.gitbook/assets/classification_.PNG)
-
-See \ref\(fig:myfigure\)
-
-```r
-classExample, echo = FALSE, out.width = '49%', fig.show = "hold", fig.cap = 'Two attributes (horizontal and vertical axes), two classes (red and blue), and three lines which can separate the classes successfully.'}
-knitr::include_graphics(c('./images/classification/classification.png', './images/classification/classification_.png'))
-```
-
-
+See \ref\(fig:myfigure\) 
 
 
 

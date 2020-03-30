@@ -16,7 +16,7 @@
 
 
 
-\\\[Figure\\\]\(\\\#Figure1\)
+[Figure](#Figure1)
 
 
 

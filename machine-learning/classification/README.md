@@ -12,11 +12,33 @@
 
 
 
-|  ![](../../.gitbook/assets/classification_.PNG)  |  ![](../../.gitbook/assets/image%20%283%29.png)  |
-| :--- | :--- |
-|  `\label{fig:myfig}`  |  |
-
-See \ref\(fig:myfig\) 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <img src="../../.gitbook/assets/classification_.PNG" alt/>
+      </th>
+      <th style="text-align:left">
+        <img src="../../.gitbook/assets/image (3).png" alt/>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p> <code>&lt;figure&gt;</code>
+        </p>
+        <p><code>&lt;img src=&quot;/assets/kitten.png&quot; alt=&quot;lovely kitten&quot;&gt;</code>
+        </p>
+        <p><code>&lt;figcaption&gt;Fig 1: Petting kittens is good for you!&lt;/figcaption&gt;</code>
+        </p>
+        <p><code>&lt;/figure&gt; </code>
+        </p>
+      </td>
+      <td style="text-align:left">&lt;code&gt;&lt;/code&gt;</td>
+    </tr>
+  </tbody>
+</table>See \ref\(fig:myfig\) 
 
 
 

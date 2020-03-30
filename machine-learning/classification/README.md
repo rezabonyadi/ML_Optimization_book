@@ -14,7 +14,7 @@
 
 ![Figure1](../../.gitbook/assets/image%20%287%29.png)
 
-[Fig](./#introduction)
+Fig
 
 [Fig](../../)
 

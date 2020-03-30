@@ -20,7 +20,7 @@
 
 
 
-\[Fig\]\(\#Figure1\)
+[Fig](#Figure1)
 
 
 

@@ -14,9 +14,11 @@
 
 |  ![](../../.gitbook/assets/classification_.PNG)  |  ![](../../.gitbook/assets/image%20%283%29.png)  |
 | :--- | :--- |
-|   |   |
+|  `\label{fig:myfig}`  |  |
 
-See \ref\(fig:myfigure\) 
+See \ref\(fig:myfig\) 
+
+
 
 
 

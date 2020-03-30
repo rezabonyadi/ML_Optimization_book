@@ -16,11 +16,13 @@
 | :--- | :--- |
 
 
-![\\label{fig:figs} Figure 1: kjaksd](../../.gitbook/assets/image%20%287%29.png)
+![Figure1](../../.gitbook/assets/image%20%287%29.png)
 
 
 
-\ref{fig:figs} 
+\[Fig\]\(\#Figure1\)
+
+
 
 
 

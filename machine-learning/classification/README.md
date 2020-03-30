@@ -16,7 +16,7 @@
 
 Fig
 
-[Fig](../../)
+
 
 See \ref\(fig:myfig\)
 

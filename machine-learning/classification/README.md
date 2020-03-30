@@ -8,19 +8,13 @@
 * These assumptions include the shapes of the mathematical rule \(a line, "if-then" rules, etc.\) and the _evaluation_ metric by which the rule is evaluated.
 * Different classification methods usually differ by their assumptions on the model, evaluation metric, and optimization method used.
 
-| ![](../../.gitbook/assets/classification_.PNG) | ![](../../.gitbook/assets/image%20%283%29.png) |
-| :--- | :--- |
 
 
-![Figure1](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/classification_.PNG) ![](../../.gitbook/assets/image%20%283%29.png) 
 
-[Figure](./#Figure1)
-
-
+\[Figure 1\]\(\)
 
 
-
-[https://app.gitbook.com/@vardiar/s/ml-stat-opt-book/machine-learning/classification\#Figure1](https://app.gitbook.com/@vardiar/s/ml-stat-opt-book/machine-learning/classification#Figure1)
 
 To design a classifier, one would need the training data, the model \(e.g., linear\), an evaluation metric \(e.g., maximum empirical margin in support vector machines\), and an optimization algorithm to optimize the model parameters given the evaluation metric and the data. The evaluation metric is responsible to inform the optimizer on how well the current parameters perform while ensure the generalization ability is not sacrificed.
 

@@ -8,91 +8,30 @@ I wrote my first machine learning \(ML\) project in the autumn of 2000, which wa
 
 
 
-$$\lim_{x \to \infty} \exp(-x) = 0$$
+
+
+![title_page](.gitbook/assets/title_page.jpg)
+
+*Fig 3: lnalksjdlk*
+
+
+
+
+
+<figure>
+    <img src=".gitbook/assets/title_page.jpg" alt="my alt text"/>
+    <figcaption>This is my caption text.</figcaption>
+</figure>
+
+
+
+
+
+
 
 
 
 ![Figure11 \label{mylabel}](.gitbook/assets/image%20%288%29.png)
-
-`kllasdljlk lkjalsjd lin`
-
-[link](./#Figure11)
-
-\@ref\(\#mylabel\)
-
-
-
-
-
-[Google][]
-And then define the link:
-
-[Google]: http://google.com/
-
-
-
-You can create footnotes like this[^fn1] and this[^fn2].
-
-[^fn10]: Here is the **text** of the first ***\*footnote\****.
-[^fn21]: Here is the **text** of the second ***\*footnote\****.
-
-
-
-
-
-```r
-foo,fig.cap="Yadda yada."
-```
-
-See Figure `\@ref(fig:foo)`  
-
-
-!\["dominating\_sets\_example2"\]\(http://sparkandshine.net/wordpress/wp-content/uploads/2016/02/dominating\_sets\_example2.png\)
-
-\*Fig. 2: The minimum dominating set of a graph\*
-
-
-
-`[Link2](/#Figure11)`
-
-
-
-
-
-
-
-[Google][]
-And then define the link:
-
-[Google]: http://google.com/
-
-
-
-You can create footnotes like this[^fn1] and this[^fn2].
-
-[^fn1]: Here is the **text** of the first ***\*footnote\****.
-[^fn2]: Here is the **text** of the second ***\*footnote\****.
-
-
-$$
-\begin{align*}
-y = y(x,t) &= A e^{i\theta} \\
-&= A (\cos \theta + i \sin \theta) \\
-&= A (\cos(kx - \omega t) + i \sin(kx - \omega t)) \\
-&= A\cos(kx - \omega t) + i A\sin(kx - \omega t)  \\
-&= A\cos \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big) + i A\sin \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big)  \\
-&= A\cos \frac{2\pi}{\lambda} (x - v t) + i A\sin \frac{2\pi}{\lambda} (x - v t)
-\end{align*}
-$$
-
-
-
-
-[image]: investment_ai
-
- 
-
-
 
 
 

@@ -18,6 +18,18 @@ I wrote my first machine learning \(ML\) project in the autumn of 2000, which wa
 
 
 
+```text
+r foo,fig.cap="Yadda yada."
+```
+
+
+
+!\["dominating\_sets\_example2"\]\(http://sparkandshine.net/wordpress/wp-content/uploads/2016/02/dominating\_sets\_example2.png\)
+
+\*Fig. 2: The minimum dominating set of a graph\*
+
+
+
 `[Link2](/#Figure11)`
 
 \`\`

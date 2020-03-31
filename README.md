@@ -8,6 +8,10 @@ I wrote my first machine learning \(ML\) project in the autumn of 2000, which wa
 
 
 
+$ \lim_{x \to \infty} \exp(-x) = 0$
+
+
+
 ![Figure11 \label{mylabel}](.gitbook/assets/image%20%288%29.png)
 
 `kllasdljlk lkjalsjd lin`

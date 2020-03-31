@@ -8,9 +8,11 @@ I wrote my first machine learning \(ML\) project in the autumn of 2000, which wa
 
  
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
 
+
+`kllasdljlk lkjalsjd <lklasd>`
 
 This collection \(or as I call it, hyper-book\) is meant to document and centralize the best links, descriptions, and materials in each topic I found for my learning \(so, basically my notes in an organized way with links\). The intention is not to re-write what has been written hundreds of times by very skilled authors as books or blogs, but to summarize methods, list best pages/books which describe them, how they have been evolving recently, and refer to programming codes I found the best for that topic, if relevant. For each topic I provide my opinion and intuition on what it is, what are examples of it, and how to find more details. I keep the descriptions simple and to the point, with minimum mathematical equations, if possible.
 

@@ -8,7 +8,7 @@ I wrote my first machine learning \(ML\) project in the autumn of 2000, which wa
 
 
 
-$ \lim_{x \to \infty} \exp(-x) = 0$
+$$\lim_{x \to \infty} \exp(-x) = 0$$
 
 
 

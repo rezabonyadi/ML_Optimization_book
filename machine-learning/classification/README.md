@@ -10,7 +10,7 @@
 
 
 
-|  ![](../../.gitbook/assets/classification_.PNG)  |  ![](../../.gitbook/assets/image%20%283%29.png)  |
+|  ![Fig_class_1](../../.gitbook/assets/classification_.PNG)  |  ![Fig_class_2](../../.gitbook/assets/image%20%283%29.png)  |
 | :--- | :--- |
 |  |  |
 

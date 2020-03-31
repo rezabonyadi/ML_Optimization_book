@@ -22,6 +22,24 @@ $$\lim_{x \to \infty} \exp(-x) = 0$$
 
 
 
+
+
+[Google][]
+And then define the link:
+
+[Google]: http://google.com/
+
+
+
+You can create footnotes like this[^fn1] and this[^fn2].
+
+[^fn1]: Here is the **text** of the first ***\*footnote\****.
+[^fn2]: Here is the **text** of the second ***\*footnote\****.
+
+
+
+
+
 ```r
 foo,fig.cap="Yadda yada."
 ```

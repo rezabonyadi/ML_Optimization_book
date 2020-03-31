@@ -4,15 +4,14 @@
 
 * Assuming a binary classification problem \(two classes\) with a linear model, the objective is to find a hyperplane that "optimally" discriminates between the classes. To do so, we need an evaluation procedure which measures a "wrongness" score for any given hyperplane \(called the _loss function_\). Then, an optimization algorithm searches over all possible hyperplanes to find the one which minimizes the loss function \(see figure below\). 
 
-
-
 |  ![](../../.gitbook/assets/finding_line_n.gif)  | The objective is to find a line/hyperplane that separates the instances optimally. The search continues until a suitable hyperplane, evaluated by the loss function, is found. The final line found in this example classifies all instances correctly except one. |
 | :--- | :--- |
 
 
  
 
-* One simple loss function would be to count the number of instances that are not in the "correct" side of the hyperplane, called the _0/1 loss function_. The outcome of this minimization is a hyperplane which has a minimum 0/1 loss value, i.e., the number of instances that are in the wrong side of the hyperplane is minimized.
+One simple loss function would be to count the number of instances that are not in the "correct" side of the hyperplane, called the _0/1 loss function_. The outcome of this minimization is a hyperplane which has a minimum 0/1 loss value, i.e., the number of instances that are in the wrong side of the hyperplane is minimized.
+
 * One should note that there might be many hyperplanes which have the same 0/1 loss value, which means the solutions to the 0/1 loss function is not unique. In Fig. \@ref\(fig:loss01\), for example, the 0/1 loss value is the same for the green line and the orange line.
 
 ### Improvements

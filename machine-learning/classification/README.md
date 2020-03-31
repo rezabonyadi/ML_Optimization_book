@@ -10,6 +10,14 @@
 
 
 
+|  ![](../../.gitbook/assets/classification_.PNG)  |  |
+| :--- | :--- |
+|  |  |
+
+
+
+
+
 ![](../../.gitbook/assets/classification_.PNG) ![](../../.gitbook/assets/image%20%283%29.png) 
 
 
@@ -20,7 +28,7 @@ To design a classifier, one would need the training data, the model \(e.g., line
 
 ## Generative vs. discriminative classifiers
 
-See \[@ng2002discriminative\] for a formal definition of discriminative classification.
+See [Nguyan and Jordan](https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf) article for a formal definition of discriminative classification.
 
 _\*\*\*\*_
 

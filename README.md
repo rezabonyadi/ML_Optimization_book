@@ -8,11 +8,15 @@ I wrote my first machine learning \(ML\) project in the autumn of 2000, which wa
 
 
 
-![Figure11](.gitbook/assets/image%20%288%29.png)
+![Figure11 \label{mylabel}](.gitbook/assets/image%20%288%29.png)
 
 `kllasdljlk lkjalsjd lin`
 
 [link](./#Figure11)
+
+\ref{mylabel}
+
+
 
 `[Link2](/#Figure11)`
 

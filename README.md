@@ -6,21 +6,13 @@ description: 'Reza Bonyadi, Ph.D.'
 
 I wrote my first machine learning \(ML\) project in the autumn of 2000, which was a characters hand-written recognition in the Pascal language. The field of ML is growing astronomically fast these days and everyday I am learning something new. One reason behind such a fast growth is that the top largest companies in the world, i.e., Microsoft, Google, Amazon, and Apple, all invest their largest R&D budgets on this topic \(see below picture, taken from [Medium](https://medium.com/@paysa/artificial-intelligence-ai-tech-talent-race-is-booming-d3e15bde3ba0)\).
 
+![title\_page](.gitbook/assets/title_page.jpg){width=50%}
 
+_Fig 3: lnalksjdlk_ $$\label{fig:ref1}$$
 
+[image](./#title_page)
 
-
-![title_page](.gitbook/assets/title_page.jpg){width=50%}
-
-*Fig 3: lnalksjdlk* $$\label{fig:ref1}$$
-
-[image](#title_page)
-
-
-
-@fig:description 
-
-
+@fig:description
 
 ```R
 {r aiInvestment, echo = FALSE, out.width = '50%', fig.cap = 'Investment from different tech companies on AI.'} knitr::include_graphics('images/investment_ai.png')
@@ -30,52 +22,21 @@ I wrote my first machine learning \(ML\) project in the autumn of 2000, which wa
 
 \ref{mylabel}
 
-
-
 $$\ref{fig:ref1}$$
 
-
-
 Here is a labeled equation:
-$$
-x+1\over\sqrt{1-x^2}
-$$ {#eq:ref}
-This is a referece : @{eq:ref}
 
+$$x+1\over\sqrt{1-x^2}$$ {\#eq:ref} This is a referece : @{eq:ref}
 
+\`\`\`{r setup, include=FALSE} knitr::opts\_chunk$set\(fig.cap = "", fig.path = "Plot"\)
 
+\`\`\`
 
+[image](./)
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(fig.cap = "", fig.path = "Plot")
-```
-
-
-
-
-
-[image]()
-
-
-
-
-
-<figure>
-    <img src=".gitbook/assets/title_page.jpg" alt="my alt text" width="200" height="300"/>
-    <figcaption>This is my caption text.</figcaption>    
-</figure>
-
-
-
-
-
-
-
-
+ ![my alt text](.gitbook/assets/title_page.jpg)This is my caption text.
 
 ![Figure11 \label{mylabel}](.gitbook/assets/image%20%288%29.png)
-
-
 
 This collection \(or as I call it, hyper-book\) is meant to document and centralize the best links, descriptions, and materials in each topic I found for my learning \(so, basically my notes in an organized way with links\). The intention is not to re-write what has been written hundreds of times by very skilled authors as books or blogs, but to summarize methods, list best pages/books which describe them, how they have been evolving recently, and refer to programming codes I found the best for that topic, if relevant. For each topic I provide my opinion and intuition on what it is, what are examples of it, and how to find more details. I keep the descriptions simple and to the point, with minimum mathematical equations, if possible.
 

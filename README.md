@@ -18,10 +18,11 @@ I wrote my first machine learning \(ML\) project in the autumn of 2000, which wa
 
 
 
-```text
-r foo,fig.cap="Yadda yada."
+```r
+foo,fig.cap="Yadda yada."
 ```
 
+See Figure `\@ref(fig:foo)`  
 
 
 !\["dominating\_sets\_example2"\]\(http://sparkandshine.net/wordpress/wp-content/uploads/2016/02/dominating\_sets\_example2.png\)

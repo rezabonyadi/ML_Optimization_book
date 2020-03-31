@@ -10,17 +10,53 @@ I wrote my first machine learning \(ML\) project in the autumn of 2000, which wa
 
 
 
-![title_page](.gitbook/assets/title_page.jpg)
+![title_page](.gitbook/assets/title_page.jpg){width=50%}
 
-*Fig 3: lnalksjdlk*
+*Fig 3: lnalksjdlk* $$\label{fig:ref1}$$
+
+[image](#title_page)
+
+
+
+@fig:description 
+
+
+
+\ref{mylabel}
+
+
+
+$$\ref{fig:ref1}$$
+
+
+
+Here is a labeled equation:
+$$
+x+1\over\sqrt{1-x^2}
+$$ {#eq:ref}
+This is a referece : @{eq:ref}
+
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.cap = "", fig.path = "Plot")
+```
+
+
+
+
+
+[image]()
 
 
 
 
 
 <figure>
-    <img src=".gitbook/assets/title_page.jpg" alt="my alt text"/>
-    <figcaption>This is my caption text.</figcaption>
+    <img src=".gitbook/assets/title_page.jpg" alt="my alt text" width="200" height="300"/>
+    <figcaption>This is my caption text.</figcaption>    
 </figure>
 
 

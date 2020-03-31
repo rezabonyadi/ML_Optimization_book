@@ -33,8 +33,8 @@ And then define the link:
 
 You can create footnotes like this[^fn1] and this[^fn2].
 
-[^fn1]: Here is the **text** of the first ***\*footnote\****.
-[^fn2]: Here is the **text** of the second ***\*footnote\****.
+[^fn10]: Here is the **text** of the first ***\*footnote\****.
+[^fn21]: Here is the **text** of the second ***\*footnote\****.
 
 
 
@@ -55,7 +55,46 @@ See Figure `\@ref(fig:foo)`
 
 `[Link2](/#Figure11)`
 
-\`\`
+
+
+
+
+
+
+[Google][]
+And then define the link:
+
+[Google]: http://google.com/
+
+
+
+You can create footnotes like this[^fn1] and this[^fn2].
+
+[^fn1]: Here is the **text** of the first ***\*footnote\****.
+[^fn2]: Here is the **text** of the second ***\*footnote\****.
+
+
+$$
+\begin{align*}
+y = y(x,t) &= A e^{i\theta} \\
+&= A (\cos \theta + i \sin \theta) \\
+&= A (\cos(kx - \omega t) + i \sin(kx - \omega t)) \\
+&= A\cos(kx - \omega t) + i A\sin(kx - \omega t)  \\
+&= A\cos \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big) + i A\sin \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big)  \\
+&= A\cos \frac{2\pi}{\lambda} (x - v t) + i A\sin \frac{2\pi}{\lambda} (x - v t)
+\end{align*}
+$$
+
+
+
+
+[image]: investment_ai
+
+ 
+
+
+
+
 
 This collection \(or as I call it, hyper-book\) is meant to document and centralize the best links, descriptions, and materials in each topic I found for my learning \(so, basically my notes in an organized way with links\). The intention is not to re-write what has been written hundreds of times by very skilled authors as books or blogs, but to summarize methods, list best pages/books which describe them, how they have been evolving recently, and refer to programming codes I found the best for that topic, if relevant. For each topic I provide my opinion and intuition on what it is, what are examples of it, and how to find more details. I keep the descriptions simple and to the point, with minimum mathematical equations, if possible.
 

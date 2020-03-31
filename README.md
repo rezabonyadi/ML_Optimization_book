@@ -22,6 +22,12 @@ I wrote my first machine learning \(ML\) project in the autumn of 2000, which wa
 
 
 
+```R
+{r aiInvestment, echo = FALSE, out.width = '50%', fig.cap = 'Investment from different tech companies on AI.'} knitr::include_graphics('images/investment_ai.png')
+```
+
+
+
 \ref{mylabel}
 
 

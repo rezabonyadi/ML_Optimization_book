@@ -1,10 +1,13 @@
 # Table of contents
 
-* [Machine learning, statistics, and optimization: A collection of notes](README.md)
+* [Analytics Tools and Techniques: Collection of Notes](README.md)
 
 ## Machine learning
 
-* [Introduction](machine-learning/introduction.md)
+* [Definitions](machine-learning/introduction/README.md)
+  * [What is it](machine-learning/introduction/untitled-1.md)
+  * [Supervised and unsupervised learning](machine-learning/introduction/supervised-and-unsupervised-learning.md)
+  * [Why the hype?](machine-learning/introduction/why-the-hype.md)
 * [Classification](machine-learning/classification/README.md)
   * [Zero/one loss](machine-learning/classification/zero.md)
   * [Logistic regression](machine-learning/classification/logistic_regression.md)

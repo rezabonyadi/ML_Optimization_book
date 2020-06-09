@@ -1,6 +1,6 @@
 # Zero/one loss
 
-### 0/1 loss function for classification
+### What that is
 
 Assuming a binary classification problem \(two classes\) with a linear model, the objective is to find a hyperplane that "optimally" discriminates between the classes. To do so, we need an evaluation procedure which measures a "wrongness" score for any given hyperplane \(called the _loss function_\). Then, an optimization algorithm searches over all possible hyperplanes to find the one which minimizes the loss function \(see figure below\). 
 
@@ -15,6 +15,12 @@ One simple loss function would be to count the number of instances that are not 
 {% hint style="info" %}
 One should note that there might be many hyperplanes which have the same 0/1 loss value, which means the solutions to the 0/1 loss function is not unique. In Fig. above, for example, the 0/1 loss value is the same for the green line and the orange line.
 {% endhint %}
+
+### When to use
+
+The method is not sensitive to outliers \(see below\), hence useful when there are lots of outliers.
+
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 ### New advances
 

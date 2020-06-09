@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Analytics Tools and Techniques: Collection of Notes](README.md)
+* [Analytics Tools and Techniques](README.md)
 
 ## Machine learning
 

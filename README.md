@@ -2,7 +2,7 @@
 description: 'Reza Bonyadi, Ph.D.'
 ---
 
-# Analytics Tools and Techniques: Collection of Notes
+# Analytics Tools and Techniques
 
 I wrote my first machine learning \(ML\) project in the autumn of 2000, which was a characters hand-written recognition in the Pascal language. The field of ML is growing astronomically fast these days and everyday I am learning something new. One reason behind such a fast growth is that the top largest companies in the world, i.e., Microsoft, Google, Amazon, and Apple, all invest their largest R&D budgets on this topic \(see below picture, taken from [Medium](https://medium.com/@paysa/artificial-intelligence-ai-tech-talent-race-is-booming-d3e15bde3ba0)\).
 

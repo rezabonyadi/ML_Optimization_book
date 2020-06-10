@@ -1,0 +1,2 @@
+# Quadratic objective and constraints
+

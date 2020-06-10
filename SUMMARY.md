@@ -70,11 +70,30 @@
   * [Variables importance and insights](machine-learning/other-topics/variables-importance-and-insights.md)
   * [Regularization](machine-learning/other-topics/regularization.md)
 
-## Statistics
+## Statistics, probability, and algebra <a id="statistics"></a>
 
-* [Untitled](statistics/untitled.md)
+* [Definitions and basics](statistics/untitled/README.md)
+  * [Correlation and covariance](statistics/untitled/correlation-and-covariance.md)
+  * [Moments](statistics/untitled/moments.md)
+  * [Untitled](statistics/untitled/untitled.md)
+* [Analyses](statistics/analyses/README.md)
+  * [Difference between distributions](statistics/analyses/difference-between-distributions.md)
+  * [Hypothesis testing](statistics/analyses/hypothesis-testing.md)
+* [Matrix operations](statistics/matrix-operations/README.md)
+  * [Decomposition](statistics/matrix-operations/decomposition.md)
 
 ## Optimization
 
-* [Untitled](optimization/untitled.md)
+* [Definitions](optimization/untitled/README.md)
+  * [Role of Derivative](optimization/untitled/role-of-derivative.md)
+* [Optimization problems](optimization/optimization-problems/README.md)
+  * [Single and Multi objective](optimization/optimization-problems/single-and-multi-objective.md)
+  * [Constrains in problems](optimization/optimization-problems/constrains-in-problems.md)
+  * [Dynamic optimization problems](optimization/optimization-problems/dynamic-optimization-problems.md)
+* [Use of derivative in optimization](optimization/use-of-derivative-in-optimization.md)
+* [Derivative-free algorithms](optimization/derivative-free-algorithms.md)
+* [Famous forms of optimization problems](optimization/famous-forms-of-optimization-problems/README.md)
+  * [Linear program](optimization/famous-forms-of-optimization-problems/linear-program.md)
+  * [Quadratic objective with linear constraints](optimization/famous-forms-of-optimization-problems/quadratic-objective-with-linear-constraints.md)
+  * [Quadratic objective and constraints](optimization/famous-forms-of-optimization-problems/quadratic-objective-and-constraints.md)
 

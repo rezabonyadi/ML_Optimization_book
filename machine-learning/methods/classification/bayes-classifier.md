@@ -17,12 +17,6 @@ For discrete variables it is rather easy to calculate the probabilities based on
 
 ### Pros and cons
 
-\[khasdk\]\(\#what-that-is\) 
-
-
-
-
-
 **Pros**:
 
 * It is easy and very fast to predict class of test data set. 

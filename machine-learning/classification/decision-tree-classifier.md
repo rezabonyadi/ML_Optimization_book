@@ -2,7 +2,9 @@
 
 ### What that is
 
-{% embed url="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/" %}
+See a visual introduction [here](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+
 
 
 
@@ -11,10 +13,6 @@
 \#\#TOCOMPLETE
 
 ### Implementation
-
-
-
-{% embed url="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/" %}
 
 
 

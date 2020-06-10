@@ -4,9 +4,7 @@
 
 The k-nearest neighbor \(KNN\) classifier assumes that the instances "close" to one another have the same class label. Hence, to assign a class label to a new instance, KNN finds $k$ instances from the training data set to which the new instance is "closest" and use those labels to vote for the class label of the new instance.
 
-![](../../.gitbook/assets/01_knn_1.png)
-
-Example of how KNN works. The "closest" instances to a new instance \(green\) are used to vote for its class label.
+![Example of how KNN works. The &quot;closest&quot; instances to a new instance \(green\) are used to vote for its class label.](../../.gitbook/assets/01_knn_1.png)
 
 The "closeness" is defined by a distance measure, such as Euclidean distance.
 

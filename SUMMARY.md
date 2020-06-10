@@ -5,7 +5,6 @@
 ## Machine learning
 
 * [Definitions](machine-learning/introduction/README.md)
-  * [What is it](machine-learning/introduction/untitled-1.md)
   * [Supervised and unsupervised learning](machine-learning/introduction/supervised-and-unsupervised-learning.md)
   * [Why the hype?](machine-learning/introduction/why-the-hype.md)
 * [Classification](machine-learning/classification/README.md)

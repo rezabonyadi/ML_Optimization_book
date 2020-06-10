@@ -7,6 +7,8 @@
 * [Definitions](machine-learning/introduction/README.md)
   * [Supervised and unsupervised learning](machine-learning/introduction/supervised-and-unsupervised-learning.md)
   * [Why the hype?](machine-learning/introduction/why-the-hype.md)
+  * [Important considerations in machine learning](machine-learning/introduction/important-considerations.md)
+  * [Regularization](machine-learning/introduction/regularization.md)
 * [Classification](machine-learning/classification/README.md)
   * [Zero/one loss](machine-learning/classification/zero.md)
   * [Logistic regression](machine-learning/classification/logistic_regression.md)
@@ -55,12 +57,15 @@
   * [Autoencoders](machine-learning/anomaly-detection/untitled-1.md)
   * [One-class SVM](machine-learning/anomaly-detection/one-class-svm.md)
 * [Preprocessing](machine-learning/preprocessing/README.md)
-  * [Untitled](machine-learning/preprocessing/untitled-1.md)
+  * [Normalization and standardization](machine-learning/preprocessing/untitled-1.md)
+* [Signal processing](machine-learning/signal-processing/README.md)
+  * [Features](machine-learning/signal-processing/features.md)
 * [Causal modeling](machine-learning/causal-modeling/README.md)
-  * [Untitled](machine-learning/causal-modeling/untitled-1.md)
+  * [Bayesian networks](machine-learning/causal-modeling/bayesian-networks.md)
+  * [Markov random field](machine-learning/causal-modeling/markov-random-field.md)
 * [Active learning](machine-learning/active-learning/README.md)
   * [Untitled](machine-learning/active-learning/untitled-1.md)
-* [Important considerations in machine learning](machine-learning/important-considerations.md)
+* [Other topics](other-topics.md)
 
 ## Statistics
 

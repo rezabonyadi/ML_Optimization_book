@@ -1,4 +1,4 @@
-# Definitions
+# Definitions and basics
 
 Machine learning refers to a set of algorithms which make a machine \(with a computer as its brain\) to apparently learn. While learning in animals and human is not very well understood, in machines it is simply to find a generic rule, given a set of examples, which
 

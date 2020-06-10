@@ -1,4 +1,4 @@
-# Famous forms of optimization problems
+# Famous forms
 
 Focuses on optimal solutions and guaranteed convergence
 

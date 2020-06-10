@@ -4,7 +4,7 @@
 
 The k-nearest neighbor \(KNN\) classifier assumes that the instances "close" to one another have the same class label. Hence, to assign a class label to a new instance, KNN finds $k$ instances from the training data set to which the new instance is "closest" and use those labels to vote for the class label of the new instance.
 
-![Example of how KNN works. The &quot;closest&quot; instances to a new instance \(green\) are used to vote for its class label.](../../.gitbook/assets/01_knn_1.png)
+![Example of how KNN works. The &quot;closest&quot; instances to a new instance \(green\) are used to vote for its class label.](../../../.gitbook/assets/01_knn_1.png)
 
 The "closeness" is defined by a distance measure, such as Euclidean distance.
 
@@ -14,7 +14,7 @@ In KNN, some attributes may lead to a biased distance. For example, if one of th
 
 Another issue is that some attributes might be misleading and their impact is better to be reduced. For example, Fig. below indicates that the horizontal dimension is responsible for the green instance to be of the type "red". This, however, may not be correct as if the horizontal dimension shrinks then the green instance becomes closer to blue instances, which makes it a blue class from KNN perspective.
 
-![Example of how KNN works. The &quot;closest&quot; instances to a new instance \(green\) are used to vote for its class label.](../../.gitbook/assets/knn_scale.png)
+![Example of how KNN works. The &quot;closest&quot; instances to a new instance \(green\) are used to vote for its class label.](../../../.gitbook/assets/knn_scale.png)
 
 This indeed leads to an in-accuracy in KNN; the algorithm does not take into account the importance of attributes. This can be addressed by optimizing a metric which shrinks/contracts the space along different attributes to achieve the best transformation in which KNN performs best. See Section @ref \@ref\(sec:metricslearning\) for details.
 

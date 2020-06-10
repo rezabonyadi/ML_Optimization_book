@@ -4,7 +4,7 @@
 
 Logistic regression seeks a hyperplane which best discriminates two classes. The hyperplane is evaluated by a loss function which is a smooth \(differentiable\) estimation of the function used in the 0/1 loss function, hence, can be optimized effectively by a gradient descent. While there might be many different choices for such function, logistic regression uses the logarithm sigmoid function that looks like below.
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../../.gitbook/assets/image%20%2811%29.png)
 
 More details on this algorithm can be found in [Stanford University Tutorial on Supervised Learning](http://ufldl.stanford.edu/tutorial/)
 

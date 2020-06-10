@@ -6,7 +6,7 @@ Autoencoders are a type of deep neural networks that map the data to itself thro
 
 Autoencoders can be used for dimensionality reduction \(detach the decoder, all n-dimensional samples are encoded into z dimensions\) and anomaly detection \(normal samples are mapped back to themselves with less error comparing to abnormal instances\).
 
-![Two candidate lines, green gives 4/30 and the orange gives 4/30 loss value according to the 0/1 loss function.](../../.gitbook/assets/autoencoder_1.png)
+![Two candidate lines, green gives 4/30 and the orange gives 4/30 loss value according to the 0/1 loss function.](../../../.gitbook/assets/autoencoder_1.png)
 
 
 

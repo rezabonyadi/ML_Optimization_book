@@ -5,11 +5,11 @@
 * Consider a binary classification problem and assume we want to optimize a hyperplane \(linear model\) to separate the classes. 
 * There might be many hyperplanes which separate the classes, all of which would result in the same mis-classification error. This encourages design of constraints which narrow down acceptable hyperplanes. 
 
-![](../../.gitbook/assets/0_1_loss_1.png)
+![](../../../.gitbook/assets/0_1_loss_1.png)
 
 * One reasonable constraint is to pick the hyperplane which has maximum distance from the instances from both classes. This idea forms the bases for the support vector machine \(SVM\). 
 
-![](../../.gitbook/assets/svm_lots_of_choices.gif)
+![](../../../.gitbook/assets/svm_lots_of_choices.gif)
 
 
 
@@ -25,7 +25,7 @@ See [wikipedia](https://en.wikipedia.org/wiki/Support-vector_machine#Linear_SVM)
 * **One-class SVM**: is also used for anomaly/outlier/novelty detection. See ???? ~~_**\#\#TOCOMPLETE**_~~.
 * **Kernel SVM**: SVM can be extended to provide non-linear hyperplanes to seperate the classes. This can be done by adding Kernel \(see [kernel trick](https://en.wikipedia.org/wiki/Kernel_method) and [representer theorem](https://en.wikipedia.org/wiki/Representer_theorem)\) to the algorithm. See [wikipedia](https://en.wikipedia.org/wiki/Support-vector_machine#Linear_SVM) for how.
 
-![](../../.gitbook/assets/svm_rbf.gif)
+![](../../../.gitbook/assets/svm_rbf.gif)
 
 
 

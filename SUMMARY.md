@@ -7,8 +7,6 @@
 * [Definitions](machine-learning/introduction/README.md)
   * [Supervised and unsupervised learning](machine-learning/introduction/supervised-and-unsupervised-learning.md)
   * [Why the hype?](machine-learning/introduction/why-the-hype.md)
-  * [Important considerations in machine learning](machine-learning/introduction/important-considerations.md)
-  * [Regularization](machine-learning/introduction/regularization.md)
 * [Classification](machine-learning/classification/README.md)
   * [Zero/one loss](machine-learning/classification/zero.md)
   * [Logistic regression](machine-learning/classification/logistic_regression.md)
@@ -65,7 +63,12 @@
   * [Markov random field](machine-learning/causal-modeling/markov-random-field.md)
 * [Active learning](machine-learning/active-learning/README.md)
   * [Untitled](machine-learning/active-learning/untitled-1.md)
-* [Other topics](other-topics.md)
+  * [Untitled](machine-learning/active-learning/untitled.md)
+* [Other topics](machine-learning/other-topics/README.md)
+  * [Bias variance debate](machine-learning/other-topics/bias-variance-debate.md)
+  * [Features vs raw data](machine-learning/other-topics/features-vs-raw-data.md)
+  * [Variables importance and insights](machine-learning/other-topics/variables-importance-and-insights.md)
+  * [Regularization](machine-learning/other-topics/regularization.md)
 
 ## Statistics
 

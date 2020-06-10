@@ -16,6 +16,7 @@
   * [K-nearest neighbor](machine-learning/classification/k-nearest-neighbor.md)
   * [Gaussian process](machine-learning/classification/gaussian-process.md)
   * [General additive model](machine-learning/classification/general-additive-model.md)
+  * [Performance measures and evaluation](machine-learning/classification/performance-measures-and-evaluation.md)
   * [Other topics](machine-learning/classification/other-topics.md)
 * [Regression](machine-learning/regression/README.md)
   * [Linear regression](machine-learning/regression/linear-regression.md)

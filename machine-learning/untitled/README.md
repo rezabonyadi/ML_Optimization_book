@@ -8,3 +8,9 @@ Assume that you have a classification problem, an input dataset $X$, with $m$ in
 
 This can be formulated in general as: let f\(., \theta\): R^p -&gt; R^n, and g\(., \omega\): R^n -&gt; R^p, p&lt; n, find \theta and \omega in a way that \|\|X-f\(g\(X, \omega\), \theta\)\|\| is minimized. For PCA, g\(X, \omega\) is XM, where M is a n by p matrix \(assuming X is m by n\) and g\(X, \theta\) is psodu-inverse of M \(which is p by n\).
 
+
+
+\#\#TOCOMPLETE
+
+#### 
+

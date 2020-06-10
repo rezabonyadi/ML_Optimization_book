@@ -39,7 +39,12 @@ _Cons_: The main issue with this idea \(optimal 0/1 binary classification, with 
 
 ### Implementation
 
-Methods described in [this](http://proceedings.mlr.press/v28/nguyen13a.pdf) are in an algorithmic, step by step, format which makes implementation easier. 
+* Methods described in [this](http://proceedings.mlr.press/v28/nguyen13a.pdf) are in an algorithmic, step by step, format which makes implementation easier. 
+* The Python, Java, and Matlab code for this [paper](https://arxiv.org/pdf/1804.09891.pdf) is available [here](https://github.com/rezabonyadi/LinearOEC).
 
-The Python, Java, and Matlab code for this [paper](https://arxiv.org/pdf/1804.09891.pdf) is available [here](https://github.com/rezabonyadi/LinearOEC).
+### Useful links
+
+{% embed url="https://github.com/rezabonyadi/LinearOEC" %}
+
+
 

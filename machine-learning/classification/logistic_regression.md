@@ -24,3 +24,17 @@ A derivative of Logistic Regression is the General Linear Model \(GLM\). ???
 * **Implementation from scratch**: see [Stanford University Tutorial on Supervised Learning](http://ufldl.stanford.edu/tutorial/). 
 * **In Python**: the [Scipy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.logistic.html) library and the [Sikit-Learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) library both have implementation of this.
 
+
+
+### Useful links
+
+{% embed url="http://ufldl.stanford.edu/tutorial/" %}
+
+{% embed url="https://scikit-learn.org/stable/modules/generated/sklearn.linear\_model.LogisticRegression.html" %}
+
+{% embed url="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.logistic.html" %}
+
+
+
+
+

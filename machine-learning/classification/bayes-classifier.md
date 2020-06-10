@@ -21,6 +21,8 @@ For discrete variables it is rather easy to calculate the probabilities based on
 
 
 
+
+
 **Pros**:
 
 * It is easy and very fast to predict class of test data set. 

@@ -75,6 +75,23 @@
   * [Variables importance and insights](machine-learning/other-topics/variables-importance-and-insights.md)
   * [Regularization](machine-learning/other-topics/regularization.md)
 
+## Optimization
+
+* [Definitions and basics](optimization/untitled/README.md)
+  * [Role of Derivative](optimization/untitled/role-of-derivative.md)
+* [Methods](optimization/methods/README.md)
+  * [Optimization problems](optimization/methods/optimization-problems/README.md)
+    * [Single and Multi objective](optimization/methods/optimization-problems/single-and-multi-objective.md)
+    * [Constrains in problems](optimization/methods/optimization-problems/constrains-in-problems.md)
+    * [Dynamic optimization problems](optimization/methods/optimization-problems/dynamic-optimization-problems.md)
+  * [Use of derivative in optimization](optimization/methods/use-of-derivative-in-optimization.md)
+  * [Derivative-free algorithms](optimization/methods/derivative-free-algorithms.md)
+  * [Famous forms](optimization/methods/famous-forms-of-optimization-problems/README.md)
+    * [Linear program](optimization/methods/famous-forms-of-optimization-problems/linear-program.md)
+    * [Quadratic objective with linear constraints](optimization/methods/famous-forms-of-optimization-problems/quadratic-objective-with-linear-constraints.md)
+    * [Quadratic objective and constraints](optimization/methods/famous-forms-of-optimization-problems/quadratic-objective-and-constraints.md)
+* [Applications](optimization/applications.md)
+
 ## Statistics, probability, and algebra <a id="statistics"></a>
 
 * [Definitions and basics](statistics/untitled/README.md)
@@ -86,19 +103,4 @@
   * [Hypothesis testing](statistics/analyses/hypothesis-testing.md)
 * [Matrix operations](statistics/matrix-operations/README.md)
   * [Decomposition](statistics/matrix-operations/decomposition.md)
-
-## Optimization
-
-* [Definitions and basics](optimization/untitled/README.md)
-  * [Role of Derivative](optimization/untitled/role-of-derivative.md)
-* [Optimization problems](optimization/optimization-problems/README.md)
-  * [Single and Multi objective](optimization/optimization-problems/single-and-multi-objective.md)
-  * [Constrains in problems](optimization/optimization-problems/constrains-in-problems.md)
-  * [Dynamic optimization problems](optimization/optimization-problems/dynamic-optimization-problems.md)
-* [Use of derivative in optimization](optimization/use-of-derivative-in-optimization.md)
-* [Derivative-free algorithms](optimization/derivative-free-algorithms.md)
-* [Famous forms](optimization/famous-forms-of-optimization-problems/README.md)
-  * [Linear program](optimization/famous-forms-of-optimization-problems/linear-program.md)
-  * [Quadratic objective with linear constraints](optimization/famous-forms-of-optimization-problems/quadratic-objective-with-linear-constraints.md)
-  * [Quadratic objective and constraints](optimization/famous-forms-of-optimization-problems/quadratic-objective-and-constraints.md)
 

@@ -1,4 +1,4 @@
-# Signal processing
+# Signal and audio
 
 ### What is it
 

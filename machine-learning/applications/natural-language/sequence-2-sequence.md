@@ -24,9 +24,7 @@ Using Convnet1D
 
 
 
-
-
-![Source &#x2013; https://github.com/google/seq2seq](../../../.gitbook/assets/image%20%2813%29.png)
+![Source &#x2013; https://github.com/google/seq2seq](../../../.gitbook/assets/s2s.gif)
 
 
 
@@ -35,6 +33,19 @@ Using Convnet1D
 ### Implementation
 
 * See [this link](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html) for an implementation in Keras
+* See also [this](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/) for another implementation
+
+### Further reading
+
+{% embed url="https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/" %}
+
+
+
+
+
+
+
+
 
 
 

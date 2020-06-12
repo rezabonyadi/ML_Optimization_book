@@ -28,8 +28,8 @@ This is a very interesting approach. Here, **we generate new sentences from the 
 ### Implementation
 
 * For a simple example for Executive summarization see [this link](https://stackabuse.com/text-summarization-with-nltk-in-python/).
-* For abstractive using deep learning see [here](https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/).
-
+* For abstractive using deep learning see [here](https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/) \(this is really great\).
+* 
 ### Read more
 
 Read more here about details and implementation using deep learning:
@@ -39,6 +39,10 @@ Read more here about details and implementation using deep learning:
 Simple ideas here
 
 {% embed url="https://stackabuse.com/text-summarization-with-nltk-in-python/" %}
+
+Lots of methods and their links to papers
+
+{% embed url="https://towardsdatascience.com/data-scientists-guide-to-summarization-fc0db952e363" %}
 
 
 

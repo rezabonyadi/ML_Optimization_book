@@ -44,6 +44,10 @@ Lots of methods and their links to papers
 
 {% embed url="https://towardsdatascience.com/data-scientists-guide-to-summarization-fc0db952e363" %}
 
+Implement your own abstractive deep nn
+
+{% embed url="https://github.com/aravindpai/How-to-build-own-text-summarizer-using-deep-learning/blob/master/How\_to\_build\_own\_text\_summarizer\_using\_deep\_learning.ipynb" %}
+
 
 
 

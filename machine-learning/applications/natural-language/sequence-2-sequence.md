@@ -26,15 +26,21 @@ Using Convnet1D
 
 ![Source &#x2013; https://github.com/google/seq2seq](../../../.gitbook/assets/s2s.gif)
 
+### State-of-the-art
 
-
-
+See T5 [here](https://arxiv.org/abs/1910.10683)
 
 ### Implementation
 
-* See [this link](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html) for an implementation in Keras
-* See also [this](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/) for another implementation
+* See [this link](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html) for an implementation in Keras from scratch
+* See also [this](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/) for another implementation with Attention mechanism
+* See T5 by Google [here](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) which is a hybrid of many methods
 
+
+
+![](../../../.gitbook/assets/image3.gif)
+
+* 
 ### Further reading
 
 {% embed url="https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/" %}

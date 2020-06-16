@@ -76,6 +76,7 @@
   * [Signal and audio](machine-learning/applications/signal-processing/README.md)
     * [Characterization](machine-learning/applications/signal-processing/features.md)
     * [Vocal and music separation](machine-learning/applications/signal-processing/audio-processing.md)
+    * [Speaker diarization](machine-learning/applications/signal-processing/speaker-diarization.md)
     * [Speech to text](machine-learning/applications/signal-processing/speech-to-text.md)
   * [Natural language](machine-learning/applications/natural-language/README.md)
     * [Text summarization](machine-learning/applications/natural-language/text-summarization.md)

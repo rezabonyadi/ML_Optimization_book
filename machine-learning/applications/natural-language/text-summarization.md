@@ -25,11 +25,18 @@ This is a very interesting approach. Here, **we generate new sentences from the 
 
 ![abstractive summarization](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/abstractive1.jpg)
 
-### Implementation
+### Implementation and libraries
+
+**From scratch**
 
 * For a simple example for Executive summarization see [this link](https://stackabuse.com/text-summarization-with-nltk-in-python/).
 * For abstractive using deep learning see [here](https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/) \(this is really great\).
-* 
+
+**Packages**
+
+* Use [Transformer ](https://huggingface.co/transformers/installation.html)package for a large set of different models \(easy to use\).
+* See PEGASUS by Google here: 
+
 ### Read more
 
 Read more here about details and implementation using deep learning:
@@ -47,6 +54,10 @@ Lots of methods and their links to papers
 Implement your own abstractive deep nn
 
 {% embed url="https://github.com/aravindpai/How-to-build-own-text-summarizer-using-deep-learning/blob/master/How\_to\_build\_own\_text\_summarizer\_using\_deep\_learning.ipynb" %}
+
+PEGASUS by Google:
+
+{% embed url="https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html" %}
 
 
 

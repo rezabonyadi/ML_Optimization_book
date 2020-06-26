@@ -34,7 +34,7 @@ This is a very interesting approach. Here, **we generate new sentences from the 
 
 **Packages**
 
-* Use [Transformer ](https://huggingface.co/transformers/installation.html)package for a large set of different models \(easy to use\).
+* Use [Transformer ](https://huggingface.co/transformers/installation.html)package for a large set of different models \(easy to use\). NOTE, it needs pytourch to be installed too.
 * See PEGASUS by Google here: 
 
 ### Read more

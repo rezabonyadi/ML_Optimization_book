@@ -4,13 +4,11 @@
 
  
 
+[https://docs.google.com/viewerng/viewer?url=http://www.jmlr.org/papers/volume3/bi03a/bi03a.pdf](https://docs.google.com/viewerng/viewer?url=http://www.jmlr.org/papers/volume3/bi03a/bi03a.pdf)
 
 
 
 
-
-
-{% embed url="http://www.jmlr.org/papers/volume3/bi03a/bi03a.pdf" %}
 
 
 

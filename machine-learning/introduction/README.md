@@ -8,7 +8,11 @@ Not fully observed, hence, there need to be assumptions as the solutions is not 
 
 
 
-### 
+### List of methods
+
+{% embed url="https://www.r-bloggers.com/101-machine-learning-algorithms-for-data-science-with-cheat-sheets/" %}
+
+
 
 
 

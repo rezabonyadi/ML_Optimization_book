@@ -50,6 +50,7 @@
     * [Gradient boosting](machine-learning/methods/ensembles/gradient-boosting.md)
     * [XGboost](machine-learning/methods/ensembles/xgboost.md)
   * [Reinforcement learning](machine-learning/methods/reinforcement-learning/README.md)
+    * [Policy gradient](machine-learning/methods/reinforcement-learning/policy-gradient.md)
     * [Q-learning](machine-learning/methods/reinforcement-learning/q-learning.md)
     * [Curiosity](machine-learning/methods/reinforcement-learning/curiosity.md)
   * [Semi-supervised learning](machine-learning/methods/semi-supervised-learning/README.md)

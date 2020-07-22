@@ -8,6 +8,7 @@
   * [Supervised and unsupervised learning](machine-learning/introduction/supervised-and-unsupervised-learning.md)
   * [Why the hype?](machine-learning/introduction/why-the-hype.md)
 * [Methods](machine-learning/methods/README.md)
+  * [Continual learning](machine-learning/methods/continual-learning.md)
   * [Classification](machine-learning/methods/classification/README.md)
     * [Zero/one loss](machine-learning/methods/classification/zero.md)
     * [Logistic regression](machine-learning/methods/classification/logistic_regression.md)

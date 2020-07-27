@@ -18,6 +18,10 @@ where $R\(\theta\)$ is the regularization term and $\alpha$ is the regularizatio
 
 As the idea is a "simpler" model has a better chance to generalize better \(see Section \@ref\(sec:biasVariance\)\), the regularization term is defined in a way that it simplifies the model. Two of most frequently used regularization terms are called $L\_1$ \(aka LASSO\) and $L\_2$ \(special case of Tikhonov\), defined by $\|\|\theta\|\|\_1=\sum\_i \|\theta\_i\|$ and $\|\|\theta\|\|\_2=\sum\_i \theta\_i^2$, respectively.
 
+See this for l0 regularization: [http://ee.sharif.edu/~SLzero/](http://ee.sharif.edu/~SLzero/)
+
+
+
 ### More details
 
 The regularization introduced in Eq. \@ref\(eq:optimizationregularized\) can be defined by a constrained optimization problem as follows:

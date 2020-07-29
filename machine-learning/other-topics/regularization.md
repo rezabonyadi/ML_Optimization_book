@@ -10,15 +10,19 @@ Depending on the definition of $$E$$ and $$M$$, this problem might not have a un
 
 Here comes regularization. It provides another constraint, formulated into the objective function for convenience \(see section Lagrangian to see how is this possible\), to make the solution unique and regulate the illusions, as follows:
 
-\begin{equation} min\_{\theta} ~E\(M\(X, \theta\), Y\) + \alpha R\(\theta\) \(\#eq:optimizationregularized\) \end{equation}
+$$
+min_{\theta} ~E(M(X, \theta), Y) + \alpha R(\theta)
+$$
 
-where $R\(\theta\)$ is the regularization term and $\alpha$ is the regularization weight.
+where $$R(\theta)$$is the regularization term and $$\alpha$$ is the regularization weight.
 
 ### Famous types
 
-As the idea is a "simpler" model has a better chance to generalize better \(see Section \@ref\(sec:biasVariance\)\), the regularization term is defined in a way that it simplifies the model. Two of most frequently used regularization terms are called $L\_1$ \(aka LASSO\) and $L\_2$ \(special case of Tikhonov\), defined by $\|\|\theta\|\|\_1=\sum\_i \|\theta\_i\|$ and $\|\|\theta\|\|\_2=\sum\_i \theta\_i^2$, respectively.
+As the idea is a "simpler" model has a better chance to generalize better \(see Section \@ref\(sec:biasVariance\)\), the regularization term is defined in a way that it simplifies the model. Two of most frequently used regularization terms are called 
 
-See this for l0 regularization: [http://ee.sharif.edu/~SLzero/](http://ee.sharif.edu/~SLzero/)
+* $$L_1$$ \(aka LASSO\) defined by $$\||\theta||_1=\sum_i |\theta_i|$$
+* $$L_2$$ \(special case of Tikhonov\), defined by $$||\theta||_2=\sum_i \theta_i^2$$
+* $$L_0$$ regularization has also been investigated, which takes into account the minimization of the number of non-zero terms \(cardinality\), which becomes an NP-Hard problem. To resolve this, the l0 terms is approximated by a differentiable function. See this for l0 regularization: [http://ee.sharif.edu/~SLzero/](http://ee.sharif.edu/~SLzero/)
 
 
 
@@ -31,6 +35,4 @@ The regularization introduced in Eq. \@ref\(eq:optimizationregularized\) can be 
 The Lagrangian of this problem is equivalent to the original definition of regularization in Eq. \@ref\(eq:optimizationregularized\). If $R\(\theta\)$ is the $L\_1$, this constraint limits the values of the parameters $\theta$ within a hyper cube, parameterized by $\epsilon$. If $L\_2$ is used, however, the parameter values are limited to a hyper-sphere, parameterized by $\epsilon$.
 
 See \[wekipedia\]\([https://en.wikipedia.org/wiki/Regularization\_\(mathematics](https://en.wikipedia.org/wiki/Regularization_%28mathematics)\)\) for more information on this.
-
-Another useful regularization term is the $L\_0$ which counts the number of non-zero
 

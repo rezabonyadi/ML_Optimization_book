@@ -71,6 +71,8 @@
   * [Recommender systems](machine-learning/applications/recommender-systems/README.md)
     * [Collaborative filters](machine-learning/applications/recommender-systems/collaborative-filters.md)
   * [Image processing](machine-learning/applications/image-processing/README.md)
+    * [Vision Processing Unit](machine-learning/applications/image-processing/vision-processing-unit.md)
+    * [Video Positioning System](machine-learning/applications/image-processing/video-positioning-system.md)
     * [Face recognition](machine-learning/applications/image-processing/untitled-1.md)
     * [Real-time object recognition](machine-learning/applications/image-processing/real-time-object-recognition.md)
     * [Face swap](machine-learning/applications/image-processing/face-swap.md)

@@ -34,3 +34,5 @@ Code from scratch for speaker recognition \(who is talking\)
 
 
 
+
+

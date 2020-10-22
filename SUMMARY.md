@@ -81,6 +81,7 @@
   * [Signal and audio](machine-learning/applications/signal-processing/README.md)
     * [Characterization](machine-learning/applications/signal-processing/features.md)
     * [Cloning voice from text](machine-learning/applications/signal-processing/cloning-voice-from-text.md)
+    * [Cloning voice from voice](machine-learning/applications/signal-processing/cloning-voice-from-voice.md)
     * [Speaker recognition and verification](machine-learning/applications/signal-processing/speaker-recognition-and-verification.md)
     * [Vocal and music separation](machine-learning/applications/signal-processing/audio-processing.md)
     * [Speaker diarization](machine-learning/applications/signal-processing/speaker-diarization.md)

@@ -77,6 +77,7 @@
     * [Face recognition](machine-learning/applications/image-processing/untitled-1.md)
     * [Real-time object recognition](machine-learning/applications/image-processing/real-time-object-recognition.md)
     * [Face swap](machine-learning/applications/image-processing/face-swap.md)
+    * [Body swap](machine-learning/applications/image-processing/body-swap.md)
     * [Face generation](machine-learning/applications/image-processing/face-generation.md)
   * [Signal and audio](machine-learning/applications/signal-processing/README.md)
     * [Characterization](machine-learning/applications/signal-processing/features.md)

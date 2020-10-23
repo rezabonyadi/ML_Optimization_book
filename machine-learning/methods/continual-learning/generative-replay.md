@@ -2,12 +2,6 @@
 
 
 
-{% embed url="https://papers.nips.cc/paper/6892-continual-learning-with-deep-generative-replay.pdf" %}
-
-
-
-
-
 {% embed url="https://arxiv.org/abs/1705.08690" %}
 
 

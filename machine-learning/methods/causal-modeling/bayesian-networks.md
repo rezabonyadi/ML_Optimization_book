@@ -6,7 +6,7 @@
 
 #### Improvements
 
-[https://arxiv.org/pdf/1803.01422.pdf](https://arxiv.org/pdf/1803.01422.pdf)
+DAG with NO-TEARS: [https://arxiv.org/pdf/1803.01422.pdf](https://arxiv.org/pdf/1803.01422.pdf)
 
 #### Implementations and libraries:
 

@@ -81,6 +81,7 @@
     * [Face generation](machine-learning/applications/image-processing/face-generation.md)
     * [Talking faces](machine-learning/applications/image-processing/talking-faces.md)
     * [Face embedding](machine-learning/applications/image-processing/face-embedding.md)
+    * [Super-resolution](machine-learning/applications/image-processing/super-resolution.md)
   * [Signal and audio](machine-learning/applications/signal-processing/README.md)
     * [Characterization](machine-learning/applications/signal-processing/features.md)
     * [Cloning voice from text](machine-learning/applications/signal-processing/cloning-voice-from-text.md)

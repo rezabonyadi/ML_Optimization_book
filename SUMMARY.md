@@ -64,6 +64,7 @@
     * [Markov random field](machine-learning/methods/causal-modeling/markov-random-field.md)
   * [Continual learning](machine-learning/methods/continual-learning/README.md)
     * [Generative replay](machine-learning/methods/continual-learning/generative-replay.md)
+  * [Federated learning](machine-learning/methods/federated-learning.md)
   * [Active learning](machine-learning/methods/active-learning/README.md)
     * [Untitled](machine-learning/methods/active-learning/untitled-1.md)
     * [Untitled](machine-learning/methods/active-learning/untitled.md)

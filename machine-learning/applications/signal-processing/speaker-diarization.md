@@ -2,10 +2,6 @@
 
 
 
-
-
-
-
 This is a speaker verification, verifying if the uterance belongs to a specific speaker or not, used in Google home \("hey google" works only with the owner's voice\).
 
 {% embed url="https://google.github.io/speaker-id/publications/GE2E/" %}

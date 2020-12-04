@@ -38,6 +38,7 @@
     * [Multi-layer perceptron](machine-learning/methods/neural-networks/multi-layer-perceptron.md)
     * [Mixed density networks](machine-learning/methods/neural-networks/mixed-density-networks.md)
     * [Convolutional neural networks](machine-learning/methods/neural-networks/convolutional-neural-networks.md)
+    * [Transformers](machine-learning/methods/neural-networks/transformers.md)
     * [Autoencoder](machine-learning/methods/neural-networks/autoencoder.md)
     * [Losses](machine-learning/methods/neural-networks/losses.md)
     * [Generative adversial neural network](machine-learning/methods/neural-networks/generative-adversial-neural-network.md)
